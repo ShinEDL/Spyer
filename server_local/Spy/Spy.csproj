@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{331388D4-C231-4066-A8E4-01D4ED24FC76}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Spy</RootNamespace>
+    <AssemblyName>Spy</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>发布\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>monitor.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IrisSkin4, Version=2006.3.22.45, Culture=neutral, PublicKeyToken=127be25a6db25e07, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\IrisSkin4.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Nobi.StatusChart">
+      <HintPath>..\..\..\StatusChart\bin\Debug\Nobi.StatusChart.dll</HintPath>
+    </Reference>
+    <Reference Include="PacketDotNet">
+      <HintPath>..\..\data\SharpPcap-4.2.0\Debug\PacketDotNet.dll</HintPath>
+    </Reference>
+    <Reference Include="Renci.SshNet, Version=2013.4.7.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Renci.SshNet.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpPcap">
+      <HintPath>..\..\data\SharpPcap-4.2.0\Debug\SharpPcap.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UI, Version=1.0.2944.14467, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking, Version=2.4.0.16114, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="background\GetAppName.cs" />
+    <Compile Include="background\WebFilter.cs" />
+    <Compile Include="Test\ThreadTest.cs" />
+    <Compile Include="UI\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\AddViolation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\AddViolation.Designer.cs">
+      <DependentUpon>AddViolation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Applications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Applications.Designer.cs">
+      <DependentUpon>Applications.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Cat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Cat.Designer.cs">
+      <DependentUpon>Cat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CatViolation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\CatViolation.Designer.cs">
+      <DependentUpon>CatViolation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Contact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Contact.Designer.cs">
+      <DependentUpon>Contact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Inform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Inform.Designer.cs">
+      <DependentUpon>Inform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Lock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Lock.Designer.cs">
+      <DependentUpon>Lock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\Picture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Picture.Designer.cs">
+      <DependentUpon>Picture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ReduceViolation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ReduceViolation.Designer.cs">
+      <DependentUpon>ReduceViolation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Remotecontrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Remotecontrol.Designer.cs">
+      <DependentUpon>Remotecontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Screenshot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Screenshot.Designer.cs">
+      <DependentUpon>Screenshot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ScreenshotNow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ScreenshotNow.Designer.cs">
+      <DependentUpon>ScreenshotNow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Selection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Selection.Designer.cs">
+      <DependentUpon>Selection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ShutDown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ShutDown.Designer.cs">
+      <DependentUpon>ShutDown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Web_Control.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Web_Control.Designer.cs">
+      <DependentUpon>Web_Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Web_Flow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Web_Flow.Designer.cs">
+      <DependentUpon>Web_Flow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\WelCome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\WelCome.Designer.cs">
+      <DependentUpon>WelCome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="util\DB.cs" />
+    <Compile Include="util\MyListBox.cs">
+      <SubType>Component</SubType>
+      <Generator>MyListBox</Generator>
+      <CustomToolNamespace>Spy.MyListBox</CustomToolNamespace>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="util\MyListBox.Designer.cs">
+      <DependentUpon>MyListBox.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="util\MyListBoxItem.cs" />
+    <Compile Include="util\RemoteScreen.cs" />
+    <Compile Include="util\SFTP.cs" />
+    <Compile Include="util\SocketService.cs" />
+    <Compile Include="util\StatusChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="util\StatusChart.Designer.cs">
+      <DependentUpon>StatusChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="util\UserInfo.cs" />
+    <EmbeddedResource Include="UI\About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\AddViolation.resx">
+      <DependentUpon>AddViolation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Applications.resx">
+      <DependentUpon>Applications.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Cat.resx">
+      <DependentUpon>Cat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\CatViolation.resx">
+      <DependentUpon>CatViolation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Contact.resx">
+      <DependentUpon>Contact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Inform.resx">
+      <DependentUpon>Inform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Lock.resx">
+      <DependentUpon>Lock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UI\Picture.resx">
+      <DependentUpon>Picture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ReduceViolation.resx">
+      <DependentUpon>ReduceViolation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Remotecontrol.resx">
+      <DependentUpon>Remotecontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Screenshot.resx">
+      <DependentUpon>Screenshot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ScreenshotNow.resx">
+      <DependentUpon>ScreenshotNow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Selection.resx">
+      <DependentUpon>Selection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ShutDown.resx">
+      <DependentUpon>ShutDown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Web_Control.resx">
+      <DependentUpon>Web_Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Web_Flow.resx">
+      <DependentUpon>Web_Flow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\WelCome.resx">
+      <DependentUpon>WelCome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="util\MyListBox.resx">
+      <DependentUpon>MyListBox.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <None Include="app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\test.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic1.jpg" />
+    <None Include="Resources\test.jpg" />
+    <Content Include="monitor.ico" />
+    <None Include="Resources\monitor.ico" />
+    <Content Include="UI.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

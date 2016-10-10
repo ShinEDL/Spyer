@@ -1,0 +1,440 @@
+E:\StudyingAndWorking\MyCode\Demo1\Spy\Spy\bin\Debug\Spy.exe.config
+E:\StudyingAndWorking\MyCode\Demo1\Spy\Spy\bin\Debug\Spy.exe
+E:\StudyingAndWorking\MyCode\Demo1\Spy\Spy\bin\Debug\Spy.pdb
+E:\StudyingAndWorking\MyCode\Demo1\Spy\Spy\obj\Debug\Spy.Connecting.resources
+E:\StudyingAndWorking\MyCode\Demo1\Spy\Spy\obj\Debug\Spy.Login.resources
+E:\StudyingAndWorking\MyCode\Demo1\Spy\Spy\obj\Debug\Spy.Main.resources
+E:\StudyingAndWorking\MyCode\Demo1\Spy\Spy\obj\Debug\Spy.Properties.Resources.resources
+E:\StudyingAndWorking\MyCode\Demo1\Spy\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+E:\StudyingAndWorking\MyCode\Demo1\Spy\Spy\obj\Debug\Spy.exe
+E:\StudyingAndWorking\MyCode\Demo1\Spy\Spy\obj\Debug\Spy.pdb
+E:\StudyingAndWorking\MyCode\Demo1\Spy\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+E:\StudyingAndWorking\MyCode\project\Spy\bin\Debug\Spy.exe.config
+E:\StudyingAndWorking\MyCode\project\Spy\obj\Debug\Spy.exe
+E:\StudyingAndWorking\MyCode\project\Spy\obj\Debug\Spy.pdb
+E:\StudyingAndWorking\MyCode\project\Spy\bin\Debug\Spy.exe
+E:\StudyingAndWorking\MyCode\project\Spy\bin\Debug\Spy.pdb
+E:\StudyingAndWorking\MyCode\project\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+E:\StudyingAndWorking\MyCode\project\Spy\obj\Debug\Spy.Connecting.resources
+E:\StudyingAndWorking\MyCode\project\Spy\obj\Debug\Spy.Login.resources
+E:\StudyingAndWorking\MyCode\project\Spy\obj\Debug\Spy.Main.resources
+E:\StudyingAndWorking\MyCode\project\Spy\obj\Debug\Spy.Properties.Resources.resources
+E:\StudyingAndWorking\MyCode\project\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+E:\StudyingAndWorking\MyCode\project\Spy\bin\Debug\PacketDotNet.dll
+E:\StudyingAndWorking\MyCode\project\Spy\bin\Debug\SharpPcap.dll
+E:\StudyingAndWorking\MyCode\project\Spy\bin\Debug\PacketDotNet.xml
+E:\StudyingAndWorking\MyCode\project\Spy\bin\Debug\SharpPcap.xml
+E:\StudyingAndWorking\MyCode\project\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+E:\StudyingAndWorking\MyCode\project\Spy\obj\Debug\Spy.UI.WorkPage.resources
+C:\Users\cym\Desktop\project\project\Spy\bin\Debug\Spy.exe.config
+C:\Users\cym\Desktop\project\project\Spy\obj\Debug\Spy.exe
+C:\Users\cym\Desktop\project\project\Spy\obj\Debug\Spy.pdb
+C:\Users\cym\Desktop\project\project\Spy\bin\Debug\Spy.exe
+C:\Users\cym\Desktop\project\project\Spy\bin\Debug\Spy.pdb
+C:\Users\cym\Desktop\project\project\Spy\bin\Debug\PacketDotNet.xml
+C:\Users\cym\Desktop\project\project\Spy\bin\Debug\SharpPcap.xml
+C:\Users\cym\Desktop\project\project\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+C:\Users\cym\Desktop\project\project\Spy\obj\Debug\Spy.Connecting.resources
+C:\Users\cym\Desktop\project\project\Spy\obj\Debug\Spy.Login.resources
+C:\Users\cym\Desktop\project\project\Spy\obj\Debug\Spy.Main.resources
+C:\Users\cym\Desktop\project\project\Spy\obj\Debug\Spy.Properties.Resources.resources
+C:\Users\cym\Desktop\project\project\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+C:\Users\cym\Desktop\project\project\Spy\obj\Debug\Spy.UI.WorkPage.resources
+C:\Users\cym\Desktop\project\project\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+C:\Users\cym\Desktop\project - 副本 (2)\project\Spy\bin\Debug\Spy.exe.config
+C:\Users\cym\Desktop\project - 副本 (2)\project\Spy\obj\Debug\Spy.exe
+C:\Users\cym\Desktop\project - 副本 (2)\project\Spy\obj\Debug\Spy.pdb
+C:\Users\cym\Desktop\project - 副本 (2)\project\Spy\bin\Debug\Spy.exe
+C:\Users\cym\Desktop\project - 副本 (2)\project\Spy\bin\Debug\Spy.pdb
+C:\Users\cym\Desktop\project - 副本 (2)\project\Spy\bin\Debug\PacketDotNet.xml
+C:\Users\cym\Desktop\project - 副本 (2)\project\Spy\bin\Debug\SharpPcap.xml
+C:\Users\cym\Desktop\project - 副本 (2)\project\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+C:\Users\cym\Desktop\project - 副本 (2)\project\Spy\obj\Debug\Spy.Connecting.resources
+C:\Users\cym\Desktop\project - 副本 (2)\project\Spy\obj\Debug\Spy.Login.resources
+C:\Users\cym\Desktop\project - 副本 (2)\project\Spy\obj\Debug\Spy.Main.resources
+C:\Users\cym\Desktop\project - 副本 (2)\project\Spy\obj\Debug\Spy.Properties.Resources.resources
+C:\Users\cym\Desktop\project - 副本 (2)\project\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+C:\Users\cym\Desktop\project - 副本 (2)\project\Spy\obj\Debug\Spy.UI.WorkPage.resources
+C:\Users\cym\Desktop\project - 副本 (2)\project\Spy\obj\Debug\Spy.UI.Worktable.resources
+C:\Users\cym\Desktop\project - 副本 (2)\project\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+C:\Users\cym\Desktop\project 11.23\project 11.23\project\Spy\bin\Debug\Spy.exe.config
+C:\Users\cym\Desktop\project 11.23\project 11.23\project\Spy\obj\Debug\Spy.exe
+C:\Users\cym\Desktop\project 11.23\project 11.23\project\Spy\obj\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 11.23\project 11.23\project\Spy\bin\Debug\Spy.exe
+C:\Users\cym\Desktop\project 11.23\project 11.23\project\Spy\bin\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 11.23\project 11.23\project\Spy\bin\Debug\PacketDotNet.xml
+C:\Users\cym\Desktop\project 11.23\project 11.23\project\Spy\bin\Debug\SharpPcap.xml
+C:\Users\cym\Desktop\project 11.23\project 11.23\project\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+C:\Users\cym\Desktop\project 11.23\project 11.23\project\Spy\obj\Debug\Spy.Connecting.resources
+C:\Users\cym\Desktop\project 11.23\project 11.23\project\Spy\obj\Debug\Spy.Login.resources
+C:\Users\cym\Desktop\project 11.23\project 11.23\project\Spy\obj\Debug\Spy.Main.resources
+C:\Users\cym\Desktop\project 11.23\project 11.23\project\Spy\obj\Debug\Spy.Properties.Resources.resources
+C:\Users\cym\Desktop\project 11.23\project 11.23\project\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+C:\Users\cym\Desktop\project 11.23\project 11.23\project\Spy\obj\Debug\Spy.UI.WorkPage.resources
+C:\Users\cym\Desktop\project 11.23\project 11.23\project\Spy\obj\Debug\Spy.UI.Worktable.resources
+C:\Users\cym\Desktop\project 11.23\project 11.23\project\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+C:\Users\cym\Desktop\project 11.23\project 11.23\project\Spy\obj\Debug\Spy.UI.PrintScreen.resources
+C:\Users\cym\Desktop\project 11.30\Spy\bin\Debug\Spy.exe.config
+C:\Users\cym\Desktop\project 11.30\Spy\obj\Debug\Spy.exe
+C:\Users\cym\Desktop\project 11.30\Spy\obj\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 11.30\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+C:\Users\cym\Desktop\project 11.30\Spy\obj\Debug\Spy.Connecting.resources
+C:\Users\cym\Desktop\project 11.30\Spy\obj\Debug\Spy.Login.resources
+C:\Users\cym\Desktop\project 11.30\Spy\obj\Debug\Spy.Main.resources
+C:\Users\cym\Desktop\project 11.30\Spy\obj\Debug\Spy.Properties.Resources.resources
+C:\Users\cym\Desktop\project 11.30\Spy\obj\Debug\Spy.UI.PrintScreen1.resources
+C:\Users\cym\Desktop\project 11.30\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+C:\Users\cym\Desktop\project 11.30\Spy\obj\Debug\Spy.UI.WorkPage.resources
+C:\Users\cym\Desktop\project 11.30\Spy\obj\Debug\Spy.UI.Worktable.resources
+C:\Users\cym\Desktop\project 11.30\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+C:\Users\cym\Desktop\project 11.30\Spy\bin\Debug\Spy.exe
+C:\Users\cym\Desktop\project 11.30\Spy\bin\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 11.30\Spy\bin\Debug\PacketDotNet.xml
+C:\Users\cym\Desktop\project 11.30\Spy\bin\Debug\SharpPcap.xml
+C:\Users\cym\Desktop\project 11.30 - 副本\Spy\bin\Debug\Spy.exe.config
+C:\Users\cym\Desktop\project 11.30 - 副本\Spy\obj\Debug\Spy.exe
+C:\Users\cym\Desktop\project 11.30 - 副本\Spy\obj\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 11.30 - 副本\Spy\bin\Debug\Spy.exe
+C:\Users\cym\Desktop\project 11.30 - 副本\Spy\bin\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 11.30 - 副本\Spy\bin\Debug\PacketDotNet.xml
+C:\Users\cym\Desktop\project 11.30 - 副本\Spy\bin\Debug\SharpPcap.xml
+C:\Users\cym\Desktop\project 11.30 - 副本\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+C:\Users\cym\Desktop\project 11.30 - 副本\Spy\obj\Debug\Spy.Connecting.resources
+C:\Users\cym\Desktop\project 11.30 - 副本\Spy\obj\Debug\Spy.Login.resources
+C:\Users\cym\Desktop\project 11.30 - 副本\Spy\obj\Debug\Spy.Main.resources
+C:\Users\cym\Desktop\project 11.30 - 副本\Spy\obj\Debug\Spy.Properties.Resources.resources
+C:\Users\cym\Desktop\project 11.30 - 副本\Spy\obj\Debug\Spy.UI.PrintScreen1.resources
+C:\Users\cym\Desktop\project 11.30 - 副本\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+C:\Users\cym\Desktop\project 11.30 - 副本\Spy\obj\Debug\Spy.UI.WorkPage.resources
+C:\Users\cym\Desktop\project 11.30 - 副本\Spy\obj\Debug\Spy.UI.Worktable.resources
+C:\Users\cym\Desktop\project 11.30 - 副本\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+C:\Users\cym\Desktop\project 11.30 - 副本\Spy\obj\Debug\Spy.UI.Network.resources
+C:\Users\cym\Desktop\project 3.22\Spy\bin\Debug\Spy.exe.config
+C:\Users\cym\Desktop\project 3.22\Spy\obj\Debug\Spy.exe
+C:\Users\cym\Desktop\project 3.22\Spy\obj\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 3.22\Spy\bin\Debug\Spy.exe
+C:\Users\cym\Desktop\project 3.22\Spy\bin\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 3.22\Spy\bin\Debug\PacketDotNet.xml
+C:\Users\cym\Desktop\project 3.22\Spy\bin\Debug\SharpPcap.xml
+C:\Users\cym\Desktop\project 3.22\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+C:\Users\cym\Desktop\project 3.22\Spy\obj\Debug\Spy.Connecting.resources
+C:\Users\cym\Desktop\project 3.22\Spy\obj\Debug\Spy.Login.resources
+C:\Users\cym\Desktop\project 3.22\Spy\obj\Debug\Spy.Main.resources
+C:\Users\cym\Desktop\project 3.22\Spy\obj\Debug\Spy.Properties.Resources.resources
+C:\Users\cym\Desktop\project 3.22\Spy\obj\Debug\Spy.UI.Network.resources
+C:\Users\cym\Desktop\project 3.22\Spy\obj\Debug\Spy.UI.PrintScreen1.resources
+C:\Users\cym\Desktop\project 3.22\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+C:\Users\cym\Desktop\project 3.22\Spy\obj\Debug\Spy.UI.WorkPage.resources
+C:\Users\cym\Desktop\project 3.22\Spy\obj\Debug\Spy.UI.Worktable.resources
+C:\Users\cym\Desktop\project 3.22\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+C:\Users\cym\Desktop\project 3.27\Spy\bin\Debug\Spy.exe.config
+C:\Users\cym\Desktop\project 3.27\Spy\obj\Debug\Spy.exe
+C:\Users\cym\Desktop\project 3.27\Spy\obj\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 3.27\Spy\bin\Debug\Spy.exe
+C:\Users\cym\Desktop\project 3.27\Spy\bin\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 3.27\Spy\bin\Debug\PacketDotNet.xml
+C:\Users\cym\Desktop\project 3.27\Spy\bin\Debug\SharpPcap.xml
+C:\Users\cym\Desktop\project 3.27\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+C:\Users\cym\Desktop\project 3.27\Spy\obj\Debug\Spy.Connecting.resources
+C:\Users\cym\Desktop\project 3.27\Spy\obj\Debug\Spy.Login.resources
+C:\Users\cym\Desktop\project 3.27\Spy\obj\Debug\Spy.Main.resources
+C:\Users\cym\Desktop\project 3.27\Spy\obj\Debug\Spy.Properties.Resources.resources
+C:\Users\cym\Desktop\project 3.27\Spy\obj\Debug\Spy.UI.Network.resources
+C:\Users\cym\Desktop\project 3.27\Spy\obj\Debug\Spy.UI.PrintScreen1.resources
+C:\Users\cym\Desktop\project 3.27\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+C:\Users\cym\Desktop\project 3.27\Spy\obj\Debug\Spy.UI.WorkPage.resources
+C:\Users\cym\Desktop\project 3.27\Spy\obj\Debug\Spy.UI.Worktable.resources
+C:\Users\cym\Desktop\project 3.27\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+C:\Users\cym\Desktop\project 3.27\Spy\obj\Debug\Spy.UI.MessagePage.resources
+C:\Users\cym\Desktop\project 3.29\Spy\bin\Debug\Spy.exe.config
+C:\Users\cym\Desktop\project 3.29\Spy\obj\Debug\Spy.exe
+C:\Users\cym\Desktop\project 3.29\Spy\obj\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 3.29\Spy\bin\Debug\Spy.exe
+C:\Users\cym\Desktop\project 3.29\Spy\bin\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 3.29\Spy\bin\Debug\PacketDotNet.xml
+C:\Users\cym\Desktop\project 3.29\Spy\bin\Debug\SharpPcap.xml
+C:\Users\cym\Desktop\project 3.29\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+C:\Users\cym\Desktop\project 3.29\Spy\obj\Debug\Spy.Connecting.resources
+C:\Users\cym\Desktop\project 3.29\Spy\obj\Debug\Spy.Login.resources
+C:\Users\cym\Desktop\project 3.29\Spy\obj\Debug\Spy.Main.resources
+C:\Users\cym\Desktop\project 3.29\Spy\obj\Debug\Spy.Properties.Resources.resources
+C:\Users\cym\Desktop\project 3.29\Spy\obj\Debug\Spy.UI.MessagePage.resources
+C:\Users\cym\Desktop\project 3.29\Spy\obj\Debug\Spy.UI.Network.resources
+C:\Users\cym\Desktop\project 3.29\Spy\obj\Debug\Spy.UI.PrintScreen1.resources
+C:\Users\cym\Desktop\project 3.29\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+C:\Users\cym\Desktop\project 3.29\Spy\obj\Debug\Spy.UI.WorkPage.resources
+C:\Users\cym\Desktop\project 3.29\Spy\obj\Debug\Spy.UI.Worktable.resources
+C:\Users\cym\Desktop\project 3.29\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+C:\Users\cym\Desktop\project 3.29\Spy\obj\Debug\Spy.UI.FeedbackPage.resources
+C:\Users\cym\Desktop\project 4.1\Spy\bin\Debug\Spy.exe.config
+C:\Users\cym\Desktop\project 4.1\Spy\obj\Debug\Spy.exe
+C:\Users\cym\Desktop\project 4.1\Spy\obj\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 4.1\Spy\bin\Debug\Spy.exe
+C:\Users\cym\Desktop\project 4.1\Spy\bin\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 4.1\Spy\bin\Debug\PacketDotNet.xml
+C:\Users\cym\Desktop\project 4.1\Spy\bin\Debug\SharpPcap.xml
+C:\Users\cym\Desktop\project 4.1\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+C:\Users\cym\Desktop\project 4.1\Spy\obj\Debug\Spy.Connecting.resources
+C:\Users\cym\Desktop\project 4.1\Spy\obj\Debug\Spy.UI.FeedbackPage.resources
+C:\Users\cym\Desktop\project 4.1\Spy\obj\Debug\Spy.Login.resources
+C:\Users\cym\Desktop\project 4.1\Spy\obj\Debug\Spy.Main.resources
+C:\Users\cym\Desktop\project 4.1\Spy\obj\Debug\Spy.Properties.Resources.resources
+C:\Users\cym\Desktop\project 4.1\Spy\obj\Debug\Spy.UI.MessagePage.resources
+C:\Users\cym\Desktop\project 4.1\Spy\obj\Debug\Spy.UI.Network.resources
+C:\Users\cym\Desktop\project 4.1\Spy\obj\Debug\Spy.UI.PrintScreen1.resources
+C:\Users\cym\Desktop\project 4.1\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+C:\Users\cym\Desktop\project 4.1\Spy\obj\Debug\Spy.UI.WorkPage.resources
+C:\Users\cym\Desktop\project 4.1\Spy\obj\Debug\Spy.UI.Worktable.resources
+C:\Users\cym\Desktop\project 4.1\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+C:\Users\cym\Desktop\project 4.1\Spy\bin\Debug\Renci.SshNet.dll
+C:\Users\cym\Desktop\project 4.3\Spy\bin\Debug\Spy.exe.config
+C:\Users\cym\Desktop\project 4.3\Spy\obj\Debug\Spy.exe
+C:\Users\cym\Desktop\project 4.3\Spy\obj\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 4.3\Spy\bin\Debug\Spy.exe
+C:\Users\cym\Desktop\project 4.3\Spy\bin\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 4.3\Spy\bin\Debug\Renci.SshNet.dll
+C:\Users\cym\Desktop\project 4.3\Spy\bin\Debug\PacketDotNet.xml
+C:\Users\cym\Desktop\project 4.3\Spy\bin\Debug\SharpPcap.xml
+C:\Users\cym\Desktop\project 4.3\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+C:\Users\cym\Desktop\project 4.3\Spy\obj\Debug\Spy.Connecting.resources
+C:\Users\cym\Desktop\project 4.3\Spy\obj\Debug\Spy.UI.FeedbackPage.resources
+C:\Users\cym\Desktop\project 4.3\Spy\obj\Debug\Spy.Login.resources
+C:\Users\cym\Desktop\project 4.3\Spy\obj\Debug\Spy.Main.resources
+C:\Users\cym\Desktop\project 4.3\Spy\obj\Debug\Spy.Properties.Resources.resources
+C:\Users\cym\Desktop\project 4.3\Spy\obj\Debug\Spy.UI.MessagePage.resources
+C:\Users\cym\Desktop\project 4.3\Spy\obj\Debug\Spy.UI.Network.resources
+C:\Users\cym\Desktop\project 4.3\Spy\obj\Debug\Spy.UI.PrintScreen1.resources
+C:\Users\cym\Desktop\project 4.3\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+C:\Users\cym\Desktop\project 4.3\Spy\obj\Debug\Spy.UI.WorkPage.resources
+C:\Users\cym\Desktop\project 4.3\Spy\obj\Debug\Spy.UI.Worktable.resources
+C:\Users\cym\Desktop\project 4.3\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+C:\Users\cym\Desktop\project 4.3\Spy\obj\Debug\Spy.UI.Warn.resources
+C:\Users\cym\Desktop\project 4.3\Spy\obj\Debug\Interop.SHDocVw.dll
+C:\Users\cym\Desktop\project 4.3\Spy\obj\Debug\Spy.csproj.ResolveComReference.cache
+C:\Users\cym\Desktop\project 4.6\Spy\bin\Debug\Spy.exe.config
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Interop.SHDocVw.dll
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.csproj.ResolveComReference.cache
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.exe
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.Connecting.resources
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.UI.FeedbackPage.resources
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.Login.resources
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.Main.resources
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.Properties.Resources.resources
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.UI.MessagePage.resources
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.UI.Network.resources
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.UI.PrintScreen1.resources
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.UI.Warn.resources
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.UI.WorkPage.resources
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.UI.Worktable.resources
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+C:\Users\cym\Desktop\project 4.6\Spy\bin\Debug\Spy.exe
+C:\Users\cym\Desktop\project 4.6\Spy\bin\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 4.6\Spy\bin\Debug\Renci.SshNet.dll
+C:\Users\cym\Desktop\project 4.6\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStore.dll
+C:\Users\cym\Desktop\project 4.6\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.Cache.dll
+C:\Users\cym\Desktop\project 4.6\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.RuleEngine.dll
+C:\Users\cym\Desktop\project 4.6\Spy\bin\Debug\PacketDotNet.xml
+C:\Users\cym\Desktop\project 4.6\Spy\bin\Debug\SharpPcap.xml
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.UI.netMain.resources
+D:\MyProject\Spy\client\Spy\bin\Debug\Spy.exe.config
+D:\MyProject\Spy\client\Spy\obj\Debug\Interop.SHDocVw.dll
+D:\MyProject\Spy\client\Spy\obj\Debug\Spy.csproj.ResolveComReference.cache
+D:\MyProject\Spy\client\Spy\obj\Debug\Spy.exe
+D:\MyProject\Spy\client\Spy\obj\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 4.6\Spy\obj\Debug\Spy.UI.Socket_test.resources
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\bin\Debug\Spy.exe.config
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Interop.SHDocVw.dll
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Spy.csproj.ResolveComReference.cache
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Spy.exe
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Spy.pdb
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\bin\Debug\Spy.exe
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\bin\Debug\Spy.pdb
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\bin\Debug\Renci.SshNet.dll
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\bin\Debug\PacketDotNet.xml
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\bin\Debug\SharpPcap.xml
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Spy.Connecting.resources
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Spy.UI.FeedbackPage.resources
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Spy.Login.resources
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Spy.Main.resources
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Spy.Properties.Resources.resources
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Spy.UI.Network.resources
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Spy.UI.PrintScreen1.resources
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Spy.UI.Warn.resources
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Spy.UI.WorkPage.resources
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Spy.UI.Worktable.resources
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+C:\Users\cym\Desktop\project 4.9.1\Spy\bin\Debug\Spy.exe.config
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Interop.SHDocVw.dll
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Spy.csproj.ResolveComReference.cache
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Spy.exe
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 4.9.1\Spy\bin\Debug\Spy.exe
+C:\Users\cym\Desktop\project 4.9.1\Spy\bin\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 4.9.1\Spy\bin\Debug\Renci.SshNet.dll
+C:\Users\cym\Desktop\project 4.9.1\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStore.dll
+C:\Users\cym\Desktop\project 4.9.1\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.Cache.dll
+C:\Users\cym\Desktop\project 4.9.1\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.RuleEngine.dll
+C:\Users\cym\Desktop\project 4.9.1\Spy\bin\Debug\PacketDotNet.xml
+C:\Users\cym\Desktop\project 4.9.1\Spy\bin\Debug\SharpPcap.xml
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Spy.Connecting.resources
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Spy.UI.FeedbackPage.resources
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Spy.Login.resources
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Spy.Main.resources
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Spy.Properties.Resources.resources
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Spy.UI.netMain.resources
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Spy.UI.Network.resources
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Spy.UI.PrintScreen1.resources
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Spy.UI.Warn.resources
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Spy.UI.WorkPage.resources
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Spy.UI.Worktable.resources
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+C:\Users\cym\Desktop\project 4.9.1\Spy\obj\Debug\Spy.UI.Push.resources
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\bin\Debug\Spy.exe.config
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Interop.SHDocVw.dll
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Spy.csproj.ResolveComReference.cache
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Spy.exe
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\bin\Debug\Spy.exe
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\bin\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\bin\Debug\Renci.SshNet.dll
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStore.dll
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.Cache.dll
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.RuleEngine.dll
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\bin\Debug\PacketDotNet.xml
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\bin\Debug\SharpPcap.xml
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Spy.Connecting.resources
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Spy.UI.FeedbackPage.resources
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Spy.Login.resources
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Spy.Main.resources
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Spy.Properties.Resources.resources
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Spy.UI.netMain.resources
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Spy.UI.Network.resources
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Spy.UI.PrintScreen1.resources
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Spy.UI.Push.resources
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Spy.UI.Warn.resources
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Spy.UI.WorkPage.resources
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Spy.UI.Worktable.resources
+C:\Users\cym\Desktop\project 4.17 - 副本\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+C:\Users\cym\Desktop\project 4.18\Spy\bin\Debug\Spy.exe.config
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Interop.SHDocVw.dll
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.csproj.ResolveComReference.cache
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.exe
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 4.18\Spy\bin\Debug\Spy.exe
+C:\Users\cym\Desktop\project 4.18\Spy\bin\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 4.18\Spy\bin\Debug\Renci.SshNet.dll
+C:\Users\cym\Desktop\project 4.18\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStore.dll
+C:\Users\cym\Desktop\project 4.18\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.Cache.dll
+C:\Users\cym\Desktop\project 4.18\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.RuleEngine.dll
+C:\Users\cym\Desktop\project 4.18\Spy\bin\Debug\PacketDotNet.xml
+C:\Users\cym\Desktop\project 4.18\Spy\bin\Debug\SharpPcap.xml
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.Connecting.resources
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.UI.FeedbackPage.resources
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.Login.resources
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.Main.resources
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.Properties.Resources.resources
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.UI.netMain.resources
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.UI.Network.resources
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.UI.PrintScreen1.resources
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.UI.Push.resources
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.UI.Warn.resources
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.UI.WorkPage.resources
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.UI.Worktable.resources
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+C:\Users\cym\Desktop\project 4.18\Spy\obj\Debug\Spy.UI.Message.resources
+C:\Users\cym\Desktop\project 4.28\Spy\bin\Debug\Spy.exe.config
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Interop.SHDocVw.dll
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Spy.csproj.ResolveComReference.cache
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Spy.exe
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 4.28\Spy\bin\Debug\Spy.exe
+C:\Users\cym\Desktop\project 4.28\Spy\bin\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 4.28\Spy\bin\Debug\Renci.SshNet.dll
+C:\Users\cym\Desktop\project 4.28\Spy\bin\Debug\PacketDotNet.xml
+C:\Users\cym\Desktop\project 4.28\Spy\bin\Debug\SharpPcap.xml
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Spy.Connecting.resources
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Spy.UI.FeedbackPage.resources
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Spy.Login.resources
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Spy.Main.resources
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Spy.Properties.Resources.resources
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Spy.UI.Message.resources
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Spy.UI.Network.resources
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Spy.UI.PrintScreen1.resources
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Spy.UI.Push.resources
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Spy.UI.Warn.resources
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Spy.UI.WorkPage.resources
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Spy.UI.Worktable.resources
+C:\Users\cym\Desktop\project 4.28\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+C:\Users\cym\Desktop\project 4.28\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStore.dll
+C:\Users\cym\Desktop\project 4.28\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.Cache.dll
+C:\Users\cym\Desktop\project 4.28\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.RuleEngine.dll
+C:\Users\cym\Desktop\project 5.3\Spy\bin\Debug\Spy.exe.config
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Interop.SHDocVw.dll
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Spy.csproj.ResolveComReference.cache
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Spy.exe
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 5.3\Spy\bin\Debug\Spy.exe
+C:\Users\cym\Desktop\project 5.3\Spy\bin\Debug\Spy.pdb
+C:\Users\cym\Desktop\project 5.3\Spy\bin\Debug\Renci.SshNet.dll
+C:\Users\cym\Desktop\project 5.3\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStore.dll
+C:\Users\cym\Desktop\project 5.3\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.Cache.dll
+C:\Users\cym\Desktop\project 5.3\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.RuleEngine.dll
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Spy.Connecting.resources
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Spy.UI.FeedbackPage.resources
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Spy.Login.resources
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Spy.Main.resources
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Spy.Properties.Resources.resources
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Spy.UI.Message.resources
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Spy.UI.Network.resources
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Spy.UI.PrintScreen1.resources
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Spy.UI.Push.resources
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Spy.UI.Warn.resources
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Spy.UI.WorkPage.resources
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Spy.UI.Worktable.resources
+C:\Users\cym\Desktop\project 5.3\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Spy.UI.Message.resources
+E:\StudyingAndWorking\MyCode\Spy\client\Spy\obj\Debug\Spy.UI.Push.resources
+E:\毕设project\client\Spy\bin\Debug\Spy.exe.config
+E:\毕设project\client\Spy\obj\Debug\Interop.SHDocVw.dll
+E:\毕设project\client\Spy\obj\Debug\Spy.csproj.ResolveComReference.cache
+E:\毕设project\client\Spy\obj\Debug\Spy.exe
+E:\毕设project\client\Spy\obj\Debug\Spy.pdb
+E:\毕设project\client\Spy\bin\Debug\Spy.exe
+E:\毕设project\client\Spy\bin\Debug\Spy.pdb
+E:\毕设project\client\Spy\bin\Debug\Renci.SshNet.dll
+E:\毕设project\client\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStore.dll
+E:\毕设project\client\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.Cache.dll
+E:\毕设project\client\Spy\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.RuleEngine.dll
+E:\毕设project\client\Spy\bin\Debug\PacketDotNet.xml
+E:\毕设project\client\Spy\bin\Debug\SharpPcap.xml
+E:\毕设project\client\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+E:\毕设project\client\Spy\obj\Debug\Spy.Connecting.resources
+E:\毕设project\client\Spy\obj\Debug\Spy.UI.FeedbackPage.resources
+E:\毕设project\client\Spy\obj\Debug\Spy.Login.resources
+E:\毕设project\client\Spy\obj\Debug\Spy.Main.resources
+E:\毕设project\client\Spy\obj\Debug\Spy.Properties.Resources.resources
+E:\毕设project\client\Spy\obj\Debug\Spy.UI.Message.resources
+E:\毕设project\client\Spy\obj\Debug\Spy.UI.Network.resources
+E:\毕设project\client\Spy\obj\Debug\Spy.UI.PrintScreen1.resources
+E:\毕设project\client\Spy\obj\Debug\Spy.UI.Push.resources
+E:\毕设project\client\Spy\obj\Debug\Spy.UI.Warn.resources
+E:\毕设project\client\Spy\obj\Debug\Spy.UI.WelcomePage.resources
+E:\毕设project\client\Spy\obj\Debug\Spy.UI.WorkPage.resources
+E:\毕设project\client\Spy\obj\Debug\Spy.UI.Worktable.resources
+E:\毕设project\client\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+E:\毕设project\client\Spy\obj\Debug\Spy.UI.Setup.resources

@@ -1,0 +1,73 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using MySql.Data.MySqlClient;
+using Spy;
+
+namespace Spy.util
+{
+    class DB
+    {
+        private Login login1 = null;
+        public DB(Login login)
+        {
+            login1 = login;
+        }
+        //建立MySql数据库连接
+        public  MySqlConnection getMySqlCon()
+        {
+            MySqlConnection con ;
+            String mysqlstr = "Database=test;Data Source=172.18.13.97;User Id=shine;Password=abc123456;pooling=true;CharSet=utf8;port=3306";
+            con = new MySqlConnection(mysqlstr);
+            return con;
+            //172.18.13.97
+        }
+        // 建立执行命令语句对象
+        public  MySqlCommand getSqlCommand(String sql, MySqlConnection mysql)
+        {
+            MySqlCommand mySqlCommand = new MySqlCommand(sql, mysql);
+            //  MySqlCommand mySqlCommand = new MySqlCommand(sql);
+            // mySqlCommand.Connection = mysql;
+            return mySqlCommand;
+        }
+        /// <summary>
+        /// 查询并获得结果集并遍历
+        /// </summary>
+        /// <param name="mySqlCommand"></param>
+        public Boolean getResultset(MySqlCommand mySqlCommand)
+        {
+            MySqlDataReader reader = mySqlCommand.ExecuteReader();
+            try
+            {
+                while (reader.Read())
+                {
+                    if (reader.HasRows)
+                    {
+                        //Console.WriteLine("编号:" + reader.GetInt32(0) + "|姓名:" + reader.GetString(1) + "|年龄:" + reader.GetInt32(2) + "|学历:" + reader.GetString(3));
+                        if(reader.GetString(0) == login1.num.Text && reader.GetString(1) == login1.pwd1.Text)
+                        {
+                            Connecting connect = new Connecting();
+                            connect.Show();
+                            login1.Close();
+                            return true;
+                        }
+                    }
+                }
+                return false;
+            }
+            catch (Exception)
+            {
+               // Console.WriteLine("查询失败了！");
+                return false;
+            }
+            finally
+            {
+                reader.Close();
+            }
+        }
+    }
+
+    
+}
